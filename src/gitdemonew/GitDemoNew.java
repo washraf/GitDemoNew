@@ -18,6 +18,7 @@ public class GitDemoNew {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("Hello world 2");
+        System.out.println("Update from github");
     }
     
 }
