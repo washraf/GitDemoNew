@@ -22,6 +22,7 @@ public class GitDemoNew {
         System.out.println("Test");
         System.out.println("Hello");
         System.err.println("Error");
+        System.out.print("Stash");
     }
     
 }
