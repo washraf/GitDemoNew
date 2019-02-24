@@ -20,7 +20,6 @@ public class GitDemoNew {
         System.out.println("23Hello world 2");
         System.out.println("Update from github");
         System.out.println("Test");
-}
         System.out.println("Hello");
         System.err.println("Error");
     }
